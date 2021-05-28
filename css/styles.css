@@ -20,7 +20,9 @@ h1 {
 
 .navbar {
   background-color: #8B6453;
+  
 }
+
 
 h2 {
   text-align: center;
@@ -29,4 +31,13 @@ h2 {
 .card {
   border: solid 10px rgb(55, 60, 83);
   padding: 2rem;
+}
+
+.row {
+  padding: 10px;
+  
+}
+
+.col-md-3 {
+  margin: auto;
 }
