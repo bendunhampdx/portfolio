@@ -1,5 +1,9 @@
-.container img {
+.container-fluid {
+ ;
+}
+
+.container-fluid img {
  width: 32%;
 margin-top: 20px;
-
+float: right;
 }
