@@ -2,7 +2,7 @@
 
 #### _This is a website displaying my portfolio_
 
-#### By _**Ben Duham**_
+#### By _**Ben Dunham**_
 
 ## Technologies Used
 
@@ -17,9 +17,8 @@ _This website offers a glimpse into my background, work expereince, education an
 
 ## Setup/Installation Requirements
 
-* _To run this application you will need a code editor and working internet connection
+* _To run this application you will need a code editor and working internet connection_
 
-_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again._
 
 ## Known Bugs
 
@@ -31,4 +30,4 @@ _If you have any comments or reccomendations please contact me_
 
 ## Contact Information
 
-_bendunhampdx@gmail.com._
+_bendunhampdx@gmail.com_
