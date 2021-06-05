@@ -21,6 +21,9 @@ _This website offers a glimpse into my background, work expereince, education an
 * _Open the zip file to unpack it_
 * _Open the application in terminal with command "open ~/downloads/portfolio/index.html"_
 
+## Github pages
+
+* https://bendunhampdx.github.io/portfolio/
 
 ## Known Bugs
 
