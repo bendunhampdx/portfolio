@@ -6,10 +6,10 @@
 
 ## Technologies Used
 
-* VS Code
-* HTML
-* CSS
-* Bootstrap
+* _VS Code_
+* _HTML_
+* _CSS_
+* _Bootstrap_
 
 ## Description
 
@@ -17,16 +17,18 @@ _This website offers a glimpse into my background, work expereince, education an
 
 ## Setup/Installation Requirements
 
-* _To run this application you will need a code editor and working internet connection_
+* _Clone this repository to your downloads_
+* _Open the zip file to unpack it_
+* _Open the application in terminal with command "open ~/downloads/portfolio/index.html"_
 
 
 ## Known Bugs
 
-* There is an error code on the project page that I cannot figure out
+* _There is an error code on the project page that I cannot figure out._
 
 ## MIT License
 
-_If you have any comments or reccomendations please contact me_
+_Please reach out if you have any questions, concerns, or comments_
 
 ## Contact Information
 
